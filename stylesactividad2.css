@@ -1,0 +1,56 @@
+body {
+    background-image: url(https://img.freepik.com/vector-gratis/fondo-azul-degradado_23-2149337036.jpg?t=st=1713444474~exp=1713445074~hmac=ffd02593f23b27aa2f2c5cbd64004028a3e227c4f524b4af97c5b3342a3221e2);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.nombre {
+    font-size:25px;
+}
+
+.titulos {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 36px;
+    text-align: center;
+    margin: 30px 0;
+    text-shadow: 5px 8px 1px  black;
+}
+
+.container {
+    max-width: 820px;
+    box-sizing: border-box;
+    margin: auto;
+    margin-top: 70px;
+    border: 2px solid black;
+    text-align: justify;
+    box-shadow: 2px 2px 15px 2px black;
+}
+
+p {
+    color: rgba(230, 215, 215, 0.848);
+    line-height: 1.7;
+    font-family: sans-serif;
+    margin: 0 30px;
+}
+
+.text-video {
+    margin: 30px 60px;
+}
+
+.video-yt {
+    margin: 30px 100px;
+}
+
+
+.audio {
+    margin-left: 235px;
+}
+
+.gif {
+    width: 50%;
+    margin: 30px 200px;
+    
+}
+
+
